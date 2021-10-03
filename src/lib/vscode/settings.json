@@ -1,0 +1,17 @@
+{
+  "json.schemaDownload.enable": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.sideBar.location": "right",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.detectIndentation": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "files.eol": "\n",
+  "files.encoding": "utf8",
+  "terminal.integrated.defaultLocation": "editor",
+  "auto-close-tag.disableOnLanguage": ["javascript", "typescript"],
+  "autoimport.filesToScan": "**/*.{ts,tsx}",
+  "bracketPairColorizer.forceUniqueOpeningColor": true,
+  "git.autofetch": true
+}
