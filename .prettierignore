@@ -1,0 +1,6 @@
+docs-dist
+public
+deploy.sh
+.umi
+.umi-production
+.umi-test
